@@ -1,7 +1,6 @@
 # Competitive-Programming
 
 <html>
- <h1><b>Competitive Programming<b></h1>
 <p>Competitive Programming is an interesting activity which mixes problem solving with programming. It is not only enjoyable but also very demanded in placements. Competitive programming will make you very good at writing efficient programs quickly. If you get really serious with competitive programming, it will make you an expert in data structures and algorithms.</p>
 
 <h1><b>Learn a programming language<b></h1>
